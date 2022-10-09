@@ -1,1 +1,1 @@
-Please see attached file "docker-nodejs-redis-nginx.pdf"
+Node.js and Redis deployed in Docker containers, using Docker Compose - then load-balancing the Node.js servers with Nginx
